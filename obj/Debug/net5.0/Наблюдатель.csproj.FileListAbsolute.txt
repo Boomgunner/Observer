@@ -1,0 +1,16 @@
+C:\Users\basta\Desktop\Программы\Наблюдатель\bin\Debug\net5.0\Наблюдатель.exe
+C:\Users\basta\Desktop\Программы\Наблюдатель\bin\Debug\net5.0\Наблюдатель.deps.json
+C:\Users\basta\Desktop\Программы\Наблюдатель\bin\Debug\net5.0\Наблюдатель.runtimeconfig.json
+C:\Users\basta\Desktop\Программы\Наблюдатель\bin\Debug\net5.0\Наблюдатель.runtimeconfig.dev.json
+C:\Users\basta\Desktop\Программы\Наблюдатель\bin\Debug\net5.0\Наблюдатель.dll
+C:\Users\basta\Desktop\Программы\Наблюдатель\bin\Debug\net5.0\ref\Наблюдатель.dll
+C:\Users\basta\Desktop\Программы\Наблюдатель\bin\Debug\net5.0\Наблюдатель.pdb
+C:\Users\basta\Desktop\Программы\Наблюдатель\obj\Debug\net5.0\Наблюдатель.csproj.AssemblyReference.cache
+C:\Users\basta\Desktop\Программы\Наблюдатель\obj\Debug\net5.0\Наблюдатель.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\basta\Desktop\Программы\Наблюдатель\obj\Debug\net5.0\Наблюдатель.AssemblyInfoInputs.cache
+C:\Users\basta\Desktop\Программы\Наблюдатель\obj\Debug\net5.0\Наблюдатель.AssemblyInfo.cs
+C:\Users\basta\Desktop\Программы\Наблюдатель\obj\Debug\net5.0\Наблюдатель.csproj.CoreCompileInputs.cache
+C:\Users\basta\Desktop\Программы\Наблюдатель\obj\Debug\net5.0\Наблюдатель.dll
+C:\Users\basta\Desktop\Программы\Наблюдатель\obj\Debug\net5.0\ref\Наблюдатель.dll
+C:\Users\basta\Desktop\Программы\Наблюдатель\obj\Debug\net5.0\Наблюдатель.pdb
+C:\Users\basta\Desktop\Программы\Наблюдатель\obj\Debug\net5.0\Наблюдатель.genruntimeconfig.cache
