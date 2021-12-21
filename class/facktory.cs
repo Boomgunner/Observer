@@ -12,6 +12,7 @@ namespace facktory
             this.name=name;
             this.ID=ID;
         }
+
         public void work(product k)
         {
             Console.WriteLine($"Завод {name}, работаю");
@@ -47,6 +48,10 @@ namespace facktory
         public facktories()
         {
             plant = new List<Iwork>();
+        }
+        public void RemoveFacktory(Iwork o)
+        {
+            plant.Remove(o);
         }
         public void update(product i)
         {
